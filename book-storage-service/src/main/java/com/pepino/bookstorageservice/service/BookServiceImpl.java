@@ -95,7 +95,7 @@ public class BookServiceImpl implements BookService{
 
     @Override
     public BookDTO getBookByISBN(String isbn) throws BookException {
-
+        public
         /*Book currentBook = new Book();
         currentBook.setIsbn(ISBN);
         Example<Book> example = Example.of(currentBook);
